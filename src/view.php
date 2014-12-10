@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Curso git - Compartilhado</h1>
+	<p>teste de compartilhamento de arquivo</p>
 </body>
 </html>
